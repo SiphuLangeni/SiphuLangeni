@@ -2,11 +2,11 @@
 
 ## Hello World!
 
-I'm Siphu Langeni - a health care professional turned data practitioner. Welcome to my GitHub, home of my curiosity, code and collaboration.
+I'm Siphu Langeni - a health care professional turned data practitioner. Welcome to my GitHub, home of my curiosity, code and collaboration.  
 
 <br />
 
-**Let's connect:**  
+### Let's connect:
 
 <!-- GitHub -->
 [<img align="left" alt="" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"  />][github]
@@ -18,11 +18,12 @@ I'm Siphu Langeni - a health care professional turned data practitioner. Welcome
 [<img align="left" alt="" align="left" alt="" height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <!-- Twitter -->
-[<img align="left" alt="" height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
+[<img align="left" alt="" height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
+<br />
 
-**Languages and Tools:**  
+### Languages and Tools
 
 <!-- python -->
 <img align="left" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
