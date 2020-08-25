@@ -1,8 +1,8 @@
-![GitHub Banner](Images/GHBanner.png)
+![GitHub Banner][banner]
 
 ## Hello World!
 
-I'm Siphu Langeni - a health care professional turned data practitioner. Welcome to my GitHub, home of my curiosity, code and collaboration.  
+I'm Siphu Langeni - a health care professional turned data practitioner. Welcome to my GitHub, home of my *curiosity*, *code* and *collaboration*.  
 
 <br />
 
@@ -21,9 +21,8 @@ I'm Siphu Langeni - a health care professional turned data practitioner. Welcome
 [<img align="left" alt="" height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
-<br />
 
-### Languages and Tools
+### Languages and Tools:
 
 <!-- python -->
 <img align="left" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
@@ -68,7 +67,7 @@ I'm Siphu Langeni - a health care professional turned data practitioner. Welcome
 <img align="left" width="32" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"/>
 
 <!-- <img height="32" width="32" src=""/> -->
-
+[banner]: https://raw.githubusercontent.com/SiphuLangeni/SiphuLangeni/master/Images/GHBanner.png
 [github]: https://github.com/SiphuLangeni
 [linkedin]: https://linkedin.com/in/SiphuLangeni
 [medium]: https://towardsdatascience.com/@SiphuLangeni
