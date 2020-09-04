@@ -1,9 +1,5 @@
 ![GitHub Banner][banner]
 
-## Hello World!
-
-I'm Siphu Langeni - a health care professional turned data practitioner. Welcome to my GitHub, home of my *curiosity*, *code* and *collaboration*.  
-
 <br />
 
 ### Let's connect:
