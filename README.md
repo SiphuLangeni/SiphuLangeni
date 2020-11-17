@@ -18,6 +18,13 @@
 
 <br />
 
+### Python Packages (PyPI):
+
+<!-- tortus -->
+[<img align="left" alt="tortus" height="22" width="22" src="Images/tortus_shell_logo.png" />][tortus]
+
+<br />
+
 ### Languages and Tools:
 
 <!-- python -->
@@ -68,3 +75,4 @@
 [linkedin]: https://linkedin.com/in/SiphuLangeni
 [medium]: https://towardsdatascience.com/@SiphuLangeni
 [twitter]: https://twitter.com/SiphuLangeni
+[tortus]: https://pypi.org/project/tortus
