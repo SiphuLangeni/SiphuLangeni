@@ -21,7 +21,7 @@
 ### Python Packages (PyPI):
 
 <!-- tortus -->
-[<img align="left" alt="tortus" height="22" width="22" src="Images/tortus_shell_logo.png" />][tortus]
+[<img align="left" alt="tortus" height="36" width="36" src="Images/tortus_shell_logo.png" />][tortus]
 
 <br />
 
