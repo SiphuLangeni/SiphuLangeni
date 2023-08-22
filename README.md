@@ -73,7 +73,7 @@
 <img align="left" width="22" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"/>
 
 
-[banner]: https://raw.githubusercontent.com/SiphuLangeni/SiphuLangeni/master/Images/GHBanner.png
+[banner]: https://raw.githubusercontent.com/SiphuLangeni/SiphuLangeni/master/Images/GitHubBanner.png
 [github]: https://github.com/SiphuLangeni
 [linkedin]: https://linkedin.com/in/SiphuLangeni
 [medium]: https://towardsdatascience.com/@SiphuLangeni
